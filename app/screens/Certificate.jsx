@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
     fontStyle: 'italic',
   },
   progressBar: {
-    marginTop: 2,
+    marginTop: 3,
   },
   incompleteText: {
     fontSize: 13,
